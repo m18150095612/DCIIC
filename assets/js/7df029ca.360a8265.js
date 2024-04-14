@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[371],{9649:e=>{e.exports=JSON.parse('{"label":"greetings","permalink":"/DCIIC/blog/tags/greetings","allTagsPath":"/DCIIC/blog/tags","count":1,"unlisted":false}')}}]);
